@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Steven.
-#### I am a software developer based in Calgary, Canada.
+#### I am a software developer with a business and science background based in Calgary, Canada.
 #### I enjoy working on technical problems and learning new technologies.
 
 #### Skills:
@@ -11,7 +11,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/stevenni/)
 
-#### Most recently I built Constellation <img src="https://user-images.githubusercontent.com/41551585/186273825-43a8531d-9e47-4bd3-80c8-064b8aefbedf.png" width="32" img>, an open-source, serverless, framework that simplifies geographically distributed API load testing. 
+#### Most recently I built [Constellation](https://constellation-load-testing.github.io), an open-source, serverless, framework that simplifies geographically distributed API load testing. 
 #### Constellation was built with React, Node.js, AWS, and Docker.
 <div align="left">
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
