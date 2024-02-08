@@ -5,7 +5,7 @@
 #### Skills:
 - **Frontend**: JavaScript, TypeScript, React/Redux, Vue.js, Handlebars, Pug, CSS
 - **Backend**: Node.js, Express.js, SQL, PostgreSQL, MongoDB, Go, PHP
-- **Other**: AWS, Digital Ocean, Heroku, Git/GitHub, Docker, Jest, React Testing Library
+- **Additional**: AWS, Digital Ocean, Heroku, Git/GitHub, Docker, Jest, Cypress, React Testing Library, GraphQL
 
 [Personal Website](https://www.stevenni.dev)
 
