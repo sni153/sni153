@@ -7,8 +7,6 @@
 - **Backend**: Node.js, Express.js, SQL, PostgreSQL, MongoDB, Go, PHP
 - **Additional**: AWS, Digital Ocean, Heroku, Git/GitHub, Docker, Jest, Cypress, React Testing Library, GraphQL
 
-[Personal Website](https://www.stevenni.dev)
-
 [LinkedIn](https://www.linkedin.com/in/stevenni/)
 
 #### Most recently I built [Constellation](https://constellation-load-testing.github.io), an open-source, serverless, framework that simplifies geographically distributed API load testing. 
